@@ -227,7 +227,6 @@ public static (PhotoContainer container, bool success) ReadImage(int identifier)
 }
 ```
 
-
 **EF Core**
 
 ```csharp
@@ -272,4 +271,4 @@ Well the code had been done in an ASP.NET Core, Blazor, MAUI or unit test while 
 
 ## Source code
 
-Clone the following GitHub repository
+Clone the following [GitHub repository](https://github.com/karenpayneoregon/efcore-dapper-dataprovider)
