@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/assets/EFCoreDapper.png
+/assets/EFCoreDapper.snag
+/assets/EFCoreDapper1.png
